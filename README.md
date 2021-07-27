@@ -58,7 +58,7 @@
       
     2. Word piece 사용 (영어)      
         - 영어 단어만 추출
-        - word piece tokeniz
+        - word piece tokenize
 
     
 ***

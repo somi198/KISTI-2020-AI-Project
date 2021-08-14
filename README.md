@@ -22,7 +22,9 @@
 
 - 네이버 뉴스 IT/과학 카테고리에서 카테고리당 약 200개의 기사 크롤링 (총 1400개)
   
-  <img width="600" alt="스크린샷 2021-07-27 오후 4 32 53" src="https://user-images.githubusercontent.com/44887886/127114675-b14cf5f7-a30a-4be7-9b42-fb6463c9b524.png">    
+  <img width="600" alt="스크린샷 2021-07-27 오후 4 32 53" src="https://user-images.githubusercontent.com/44887886/127114675-b14cf5f7-a30a-4be7-9b42-fb6463c9b524.png">  
+
+- KISTI AI 인공지능 대회에서 제공한 질의 응답 data set
 
 ***
 
